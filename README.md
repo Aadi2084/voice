@@ -1,6 +1,5 @@
 # Ava - Your Multilingual Translation Assistant
 
-![Ava Logo](ava_logo.png)
 
 Ava is a versatile multilingual translation assistant developed in Python. It combines voice recognition, real-time translation, and various utility features to assist users in their daily tasks. Whether you need quick translations, information retrieval from Wikipedia, or a dose of humor, Ava is here to help.
 
