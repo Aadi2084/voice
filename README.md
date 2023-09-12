@@ -9,7 +9,6 @@ Ava is a versatile multilingual translation assistant developed in Python. It co
 - [Usage](#usage)
 - [Example Commands](#example-commands)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
@@ -55,10 +54,6 @@ Ava is a versatile multilingual translation assistant developed in Python. It co
 ## Contributing
 
 Contributions to Ava are welcome! If you'd like to contribute to the project or report issues, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
